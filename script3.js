@@ -1,6 +1,5 @@
 var cantidadDeGatos = 10;
 var cantidadDePasos = 4;
-
 var gatoEmoji1 = '🐈';
 var gatoEmoji2 = '🐈‍⬛';
 var pasosEmoji = '🐾';
